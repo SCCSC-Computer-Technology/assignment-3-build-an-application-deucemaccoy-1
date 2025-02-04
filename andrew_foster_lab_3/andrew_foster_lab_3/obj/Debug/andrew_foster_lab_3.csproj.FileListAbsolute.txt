@@ -1,0 +1,13 @@
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\bin\Debug\states.mdf
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\bin\Debug\states_log.ldf
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\bin\Debug\andrew_foster_lab_3.exe.config
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\bin\Debug\andrew_foster_lab_3.exe
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\bin\Debug\andrew_foster_lab_3.pdb
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.csproj.AssemblyReference.cache
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.Form1.resources
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.Properties.Resources.resources
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.csproj.GenerateResource.cache
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.exe
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.pdb
+C:\Users\amfos\OneDrive\Desktop\C#\Advanced C#\andrew_foster_lab_3\andrew_foster_lab_3\obj\Debug\andrew_foster_lab_3.stateForm.resources
